@@ -1,0 +1,2 @@
+This website shows a simple UI of e-commerce site which is supposed to be a musical instruments selling company.
+->This website again has a header,navigation,main block ,few products,footer etc.
